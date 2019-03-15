@@ -1,11 +1,11 @@
 ---
 layout: blog
-title: The Blog
+title: Locations
 permalink: /blog
 section: blog
 intro_paragraph: >
-  This is the Blog index page, listing each post with an
-  automatically generated post excerpt. It's a normal Jekyll page but uses
-  the `_layouts/blog.html` template to output the blog's posts after the page
-  content.
+  This is the Blog page, soon there will be a list of locations that I have
+  visited along with a link that takes the user to another page. The next page
+  will include pictures, travel tips, history of the location, and any other
+  fun facts.
 ---
