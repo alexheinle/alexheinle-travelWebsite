@@ -1,7 +1,7 @@
 ---
 layout: destination
 title: Destinations
-permalink: /contact
+permalink: /destination
 section: destination
 intro_paragraph: |-
 
