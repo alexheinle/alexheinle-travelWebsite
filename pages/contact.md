@@ -1,8 +1,8 @@
 ---
-layout: contact
-title: Contact
+layout: destination
+title: Destinations
 permalink: /contact
-section: contact
+section: destination
 intro_paragraph: |-
 
   This is the contact form page that
