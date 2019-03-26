@@ -11,3 +11,4 @@ intro_paragraph: >
   pages and posts, and a continuous deployment workflow.
 
 ---
+![Home Page Image](/images/homePage.jpeg)
