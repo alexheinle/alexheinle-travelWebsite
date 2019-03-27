@@ -2,7 +2,7 @@
 layout: blog
 title: Locations
 permalink: /blog
-section: blog
+section: locations
 intro_paragraph: >
   This is the Blog page, soon there will be a list of locations that I have
   visited along with a link that takes the user to another page. The next page
