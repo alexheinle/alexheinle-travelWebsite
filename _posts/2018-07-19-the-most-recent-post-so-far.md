@@ -27,6 +27,8 @@ Banff National Park is Canada's oldest national park and was established in 1885
 
 ![Banff Photo](/images/water1.JPG)
 
+The beautiful lake shown above is named Emerald Lake.
+
 ![Banff Photo](/images/water3.JPG)
 
 Shown above is <a href="https://morainelake.com/">Moraine Lake</a>.
