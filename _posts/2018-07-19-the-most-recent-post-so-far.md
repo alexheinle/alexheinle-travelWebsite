@@ -23,10 +23,11 @@ that allowed visitors to be right up against the rapids.
 
 Banff National Park
 
-![Niagara Falls Photo](/images/banff1.JPG)
+Banff National Park is Canada's oldest national park and was established in 1885.
 
-![Niagara Falls Photo](/images/banff2.JPG)
+![Banff Photo](/images/water1.JPG)
 
-![Niagara Falls Photo](/images/banff3.JPG)
+![Banff Photo](/images/water3.JPG)
 
-![Niagara Falls Photo](/images/cocacola.JPG)
+Shown above is <a href="https://morainelake.com/">Moraine Lake</a>.
+YES! The water actually is that color blue in real life!
