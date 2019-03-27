@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Locations
+title: Been there, done that
 permalink: /blog
 section: locations
 intro_paragraph: >
