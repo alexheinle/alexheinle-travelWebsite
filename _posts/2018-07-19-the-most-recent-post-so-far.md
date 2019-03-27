@@ -18,7 +18,6 @@ through a cave.
 As we were only yards away from the water, we wore rain ponchos to stay dry!
 For those who wanted a closer look, you can see the tour boat through the mist
 that allowed visitors to be right up against the rapids.
-Through the mist you can see a tour boat
 
 ![Niagara Falls Photo](/images/niagraFalls2.jpg)
 
