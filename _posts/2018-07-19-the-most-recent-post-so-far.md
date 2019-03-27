@@ -10,3 +10,6 @@ This will be pictures from canada trips
 -banff
 -niagra falls
 -calgary
+
+![Niagra Falls Photo](/images/niagraFalls1.jpg)
+![Niagra Falls Photo](/images/niagraFalls2.jpg)
