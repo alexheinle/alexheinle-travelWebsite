@@ -7,7 +7,7 @@ intro_paragraph: ''
 categories: misc
 ---
 
-Want to see some of the most beautiful lakes and waterfalls? They can be found
+Want to see some of the most beautiful lakes and waterfalls? They can be found 
 all around the country of Canada. From the national parks in Banff to good old
 Niagara Falls.
 
