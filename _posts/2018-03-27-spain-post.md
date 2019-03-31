@@ -61,3 +61,10 @@ the Alhambra!
 
 The <a href="http://www.alhambra-patronato.es/">Alhambra</a> is a roman fortress
 and palace build in AD 889.
+
+![Granada Photo](/images/alhambra.jpg)
+
+![Granada Photo](/images/alhambra2.jpg)
+
+FUN FACT: The Alhambra is where Christopher Columbus received royal endorsement
+for his expedition!
