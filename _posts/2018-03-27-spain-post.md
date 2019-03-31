@@ -49,3 +49,15 @@ If you have a passion involving gardens and growing flowers, check out the
 ![Granada Photo](/images/garden.JPG)
 
 ![Granada Photo](/images/garden2.jpg)
+
+
+The Generalife Garden was build in the 13th century. It was a leisure place for
+the kings of Granada.
+
+
+
+You have not experienced the wonderful city of Granada if you have not toured
+the Alhambra!
+
+The <a href="http://www.alhambra-patronato.es/">Alhambra</a> is a roman fortress
+and palace build in AD 889.
