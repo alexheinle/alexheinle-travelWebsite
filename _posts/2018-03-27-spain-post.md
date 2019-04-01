@@ -5,7 +5,6 @@ author: alexheinle
 date: '2018-07-06 12:00:00'
 categories: misc
 ---
-
 Spain...the most cultural centers of Europe!
 
 From bullfights to Flamenco music, this country is a MUST SEE!
@@ -88,3 +87,24 @@ such a special landmark that it needs deserving protection.
 ![Seville Photo](/images/seville2.jpg)
 
 ![Seville Photo](/images/seville3.jpeg)
+
+
+Time for CORDOBA
+
+Take a peek at the <a href="https://mezquita-catedraldecordoba.es/">Mezquita Catedral de Cordoba</a>
+
+It is one of the oldest structures still standing from the time the Muslims ruled.
+
+![Cordoba Photo](/images/cordoba2.jpg)
+
+![Cordoba Photo](/images/cordoba3.jpg)
+
+![Cordoba Photo](/images/cordoba.jpg)
+
+Make sure you walk to the top of the bell tower!
+
+![Cordoba Photo](/images/cordobabell.jpg)
+
+![Cordoba Photo](/images/bellview.jpg)
+
+Above is the view from the top of the tower.
