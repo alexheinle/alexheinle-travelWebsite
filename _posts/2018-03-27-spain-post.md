@@ -130,3 +130,14 @@ My favorite meal in Spain were these chocolate dipped churros! I vote Madrid
 as the most tasty churros!
 
 ![Madrid Photo](/images/churros.jpg)
+
+
+For any soccer fans out there... definitely go see the Santiago Bernabéu Stadium!
+Home Stadium of Real Madrid football team!
+
+Even if you aren't the biggest soccer fan, it is worth seeing! The
+Santiago Bernabéu Stadium is one of the worlds most famous football venues.
+
+![Madrid Photo](/images/soccer.jpg)
+
+![Madrid Photo](/images/inside soccer.jpg)
