@@ -9,6 +9,8 @@ Spain...the most cultural centers of Europe!
 
 From bullfights to Flamenco music, this country is a MUST SEE!
 
+Follow along as I tell you about my travels through 5 different cities in Spain.
+
 First stop, BARCELONA
 
 <a href="https://parkguell.barcelona/en/home-en">Park Güell</a> is a top
@@ -140,4 +142,4 @@ Santiago Bernabéu Stadium is one of the worlds most famous football venues.
 
 ![Madrid Photo](/images/soccer.jpg)
 
-![Madrid Photo](/images/inside soccer.jpg)
+![Madrid Photo](/images/insidesoccer.jpg)
