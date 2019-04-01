@@ -89,7 +89,7 @@ such a special landmark that it needs deserving protection.
 ![Seville Photo](/images/seville3.jpeg)
 
 
-Time for CORDOBA
+<b>Time for CORDOBA</b>
 
 Take a peek at the <a href="https://mezquita-catedraldecordoba.es/">Mezquita Catedral de Cordoba</a>
 
