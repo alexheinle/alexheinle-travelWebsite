@@ -64,6 +64,7 @@ and palace build in AD 889.
 
 ![Granada Photo](/images/alhambra.jpg)
 
+
 ![Granada Photo](/images/alhambra2.jpg)
 
 FUN FACT: The Alhambra is where Christopher Columbus received royal endorsement
@@ -80,10 +81,10 @@ photo opportunities with beautiful architectural pieces all around!
 ![Seville Photo](/images/seville.jpg)
 
 Stop by another famous tourist attraction..
-The <a href="https://www.catedraldesevilla.es/">Catedral de Sevilla"</a> has
+The <a href="https://www.catedraldesevilla.es/">Catedral de Sevilla</a> has
 been recently registered as a World Heritage Site! This means that this church is
 such a special landmark that it needs deserving protection.
 
 ![Seville Photo](/images/seville2.jpg)
 
-![Seville Photo](/images/seville3.jpg)
+![Seville Photo](/images/seville3.jpeg)
