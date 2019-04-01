@@ -89,7 +89,7 @@ such a special landmark that it needs deserving protection.
 ![Seville Photo](/images/seville3.jpeg)
 
 
-<b>Time for CORDOBA</b>
+Time for CORDOBA
 
 Take a peek at the <a href="https://mezquita-catedraldecordoba.es/">Mezquita Catedral de Cordoba</a>
 
@@ -108,3 +108,25 @@ Make sure you walk to the top of the bell tower!
 ![Cordoba Photo](/images/bellview.jpg)
 
 Above is the view from the top of the tower.
+
+
+Lastly, MADRID
+
+The large city of Madrid holds the job of being the capital of Spain. Madrid
+has a population of over 3 million people.
+
+Madrid is a sleepless city with crazy night life.
+
+![Madrid Photo](/images/madridnightlife.jpg)
+
+The Royal Palace of Madrid is the official residence of the Spanish Royal Family.
+It is the largest functioning Royal Palace!
+
+![Madrid Photo](/images/royalpalace2.jpg)
+
+![Madrid Photo](/images/insidepalace.jpg)
+
+My favorite meal in Spain were these chocolate dipped churros! I vote Madrid
+as the most tasty churros!
+
+![Madrid Photo](/images/churros.jpg)
