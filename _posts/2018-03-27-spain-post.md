@@ -72,6 +72,7 @@ FUN FACT: The Alhambra is where Christopher Columbus received royal endorsement
 for his expedition!
 
 
+
 Next....SEVILLE
 
 Seville - the birthplace of the Flamenco dance!
