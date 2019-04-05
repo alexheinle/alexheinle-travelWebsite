@@ -4,8 +4,5 @@ title: Been there, done that
 permalink: /blog
 section: locations
 intro_paragraph: >
-  This is the Blog page, soon there will be a list of locations that I have
-  visited along with a link that takes the user to another page. The next page
-  will include pictures, travel tips, history of the location, and any other
-  fun facts.
+  Choose a link below to learn more about that destination!
 ---
