@@ -6,4 +6,4 @@ section: home/
 intro_paragraph: >
 
 ---
-![Home Page Image](/images/panorama.jpg)<!-- .element height="50%" width="50%" -->
+![Home Page Image](/assets/img/uploads/panorama.jpg)
