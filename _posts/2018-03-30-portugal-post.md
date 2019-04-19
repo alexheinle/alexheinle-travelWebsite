@@ -10,13 +10,7 @@ the place for you! They are known for tasty pastries!
 
 Here are some of the best Pastelaria's:
 
-<h2>Best Pastelaria's</h2>
-<ul>
-  <li>https://pasteisdebelem.pt</li>
-  <li>https://pasteisdebelem.pt</li>
-  <li>https://pasteisdebelem.pt</li>
-<a href="https://pasteisdebelem.pt</li>
-  /">Pastéis de Belém</a>.
+<a href="https://pasteisdebelem.pt/">Pastéis de Belém</a>.
 
 <a href="http://pastelaria-alcoa.com/">Pastelaria Alcôa</a>.
 
