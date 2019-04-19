@@ -15,19 +15,19 @@ $map-dot-size: 40px
 
 $transition-time: 0.25s
 
-html {
+html 
   background: $color-background
   color: $color-foreground
   text-align: center
   font-family: $font-stack-main
-}
 
-body {
+
+body
   max-width: 1200px
   margin: 20px auto
   padding: 0 100px
   overflow-x: hidden
-}
+
 
 .description
   max-width: 600px
