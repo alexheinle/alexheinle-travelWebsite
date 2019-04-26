@@ -6,4 +6,4 @@ section: home/
 intro_paragraph: >
 
 ---
-![Home Page Image](/assets/img/uploads/map.jpg)
+![Home Page Image](/assets/img/uploads/panorama.jpg)
