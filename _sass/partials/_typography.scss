@@ -92,6 +92,6 @@ header > h1 {
   line-height: $base-line-height;
   font-weight: $base-font-weight;
   @media screen and (min-width: $screen-sm-min) {
-    text-align: left;
+    text-align: center;
   }
 }

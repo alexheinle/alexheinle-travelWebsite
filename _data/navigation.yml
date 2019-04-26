@@ -2,9 +2,9 @@
 
 - text: Home
   url: /
-- text: About
-  url: /about
-- text: Contact
-  url: /contact
-- text: Blog
+- text: Destinations
   url: /blog
+- text: Interactive Feed
+  url: /about
+- text: About
+  url: /contact
