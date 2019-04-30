@@ -34,6 +34,3 @@ Below are the **top 3** resorts ranked by *Trip Advisor*
 
 
 ![Mexico Beach Photo](/images/mexicopanorama.jpg)
-
-
-## **Cayman Islands**
