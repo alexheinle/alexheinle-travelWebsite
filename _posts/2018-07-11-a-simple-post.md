@@ -31,3 +31,9 @@ Below are the **top 3** resorts ranked by *Trip Advisor*
 | `#2`    | <a href="https://www.tripadvisor.com/Hotel_Review-g150812-d1204526-Reviews-Grand_Velas_Riviera_Maya-Playa_del_Carmen_Yucatan_Peninsula.html">Playa del Carmen</a>              |
 | `#3`    | <a href="https://www.tripadvisor.com/Hotel_Review-g499445-d983682-Reviews-TRS_Yucatan_Hotel-Akumal_Yucatan_Peninsula.html">TRS Yucaton Hotel</a>.
                         |
+
+
+![Mexico Beach Photo](/images/mexicopanorama.jpg)
+
+
+## **Cayman Islands**
