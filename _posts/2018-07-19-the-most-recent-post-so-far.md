@@ -28,7 +28,7 @@ that allowed visitors to be right up against the rapids.
 
 ![Niagara Falls Photo](/images/niagraFalls2.jpg)
 
-**Banff National Park**
+### **Banff National Park**
 
 Banff National Park is Canada's oldest national park and was established in 1885.
 

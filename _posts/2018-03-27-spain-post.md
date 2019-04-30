@@ -5,7 +5,7 @@ author: alexheinle
 date: '2018-07-06 12:00:00'
 categories: misc
 ---
-Spain...the most cultural centers of Europe!
+## Spain...the most cultural centers of Europe!
 
 From bullfights to Flamenco music, this country is a MUST SEE!
 
@@ -113,7 +113,7 @@ Make sure you walk to the top of the bell tower!
 Above is the view from the top of the tower.
 
 
-Lastly, MADRID
+Lastly, **MADRID**
 
 The large city of Madrid holds the job of being the capital of Spain. Madrid
 has a population of over 3 million people.
