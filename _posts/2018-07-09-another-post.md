@@ -39,7 +39,7 @@ This unique fountain is the largest designed fountain in the city.
 shows the large amount of people that gather around to gaze at the fountain.
 Even though it is crowded and loud, IT IS WORTH IT!
 
-![Trevi Photo](/images/busitrevi.jpg)
+![Trevi Photo](/images/busytrevi.jpg)
 
 Walking through the streets of Italy is a sightseeing attraction in its own!
 The small and decorated streets and alley ways are old and unique! Sometimes you
