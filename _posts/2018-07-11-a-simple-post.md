@@ -23,7 +23,7 @@ inclusive and include deals for families or even just couple get-a-ways.
 
 ![Mexico Beach Photo](/images/mexicoResort.jpg)
 
-| Beach Name | Resort Type |
+| Ranking | Resort Type |
 | --- | --- |
-| `name 1` | Family Type |
-| `name 2` | Couple Type |
+| `#1`  | <a href="https://www.tripadvisor.com/Hotel_Review-g150793-d154769-Reviews-Villa_Del_Palmar_Beach_Resort_Spa-Puerto_Vallarta.html">Villa Del Palmar Beach Resort</a> |
+| `#2` | <a href="https://www.tripadvisor.com/Hotel_Review-g150812-d1204526-Reviews-Grand_Velas_Riviera_Maya-Playa_del_Carmen_Yucatan_Peninsula.html">Playa del Carmen</a>|
