@@ -14,7 +14,7 @@ Use these websites to find great places to stay!
 <a href="https://www.tripadvisor.com/?fid=03a13949-a2fe-45fc-adf0-14c2fd39dfcf">Trip Advisor
 </a>.
 
-<a href="https://www.tripadvisor.com/Hotel_Review-g187514-d8331763-Reviews-Dear_Hotel_Madrid-Madrid.html">Madrid Hotel
+<a href="https://www.booking.com/">Booking.com
 </a>.
 
 <a href="https://www.tripadvisor.com/Hotel_Review-g187514-d8331763-Reviews-Dear_Hotel_Madrid-Madrid.html">Madrid Hotel
@@ -22,7 +22,7 @@ Use these websites to find great places to stay!
 
 
 
-##**Spain**
+## **Spain**
 
 
 *Madrid*
