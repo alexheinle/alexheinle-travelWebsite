@@ -11,7 +11,7 @@ categories: misc
 As you explore Italy, you'll stand face-to-face with some of the world's most
 iconic images from this 2,000 year history.
 
-One of the most popular historial landmarks stands: *The Colosseum*
+One of the most popular historial landmarks stands: **The Colosseum**
 
 ![Mexico Beach Photo](/images/colosseum.jpg)
 
