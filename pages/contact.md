@@ -3,12 +3,13 @@ layout: contact
 title: Destinations
 permalink: /contact
 section: contact
-intro_paragraph: |-
+intro_paragraph: >
 
 Need help finding a hotel? These are the places that I have stayed in when touring
 other countries.
 
 ---
+
 Use these websites to find great places to stay!
 
 <a href="https://www.tripadvisor.com/?fid=03a13949-a2fe-45fc-adf0-14c2fd39dfcf">Trip Advisor
