@@ -11,7 +11,7 @@ Belize is a great place to visit if you love outdoor adventures! Right off of th
 cruise port, there are opportunities to sign up for excursions such as zip-lining,
  ATV tours, snorkeling and scuba diving!
 
- ![Belize Photo](/images/scubadiving.jpg)
+ ![Belize Photo](/images/scubadiving.jpeg)
 
  ![Belize Photo](/images/zipline.jpg)
 

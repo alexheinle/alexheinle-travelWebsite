@@ -15,4 +15,4 @@ of the coast of Honduras.
 
 Our cruise ship was able to be docked right at the entrance of the beaches.
 
-![Honduras Photo](/images/cruiz.jpg) 
+![Honduras Photo](/images/cruiz.jpg)

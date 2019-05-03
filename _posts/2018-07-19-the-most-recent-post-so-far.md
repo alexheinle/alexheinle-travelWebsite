@@ -7,14 +7,14 @@ intro_paragraph: ''
 categories: misc
 ---
 
-Want to see some of the most beautiful lakes and waterfalls? They can be found 
+Want to see some of the most beautiful lakes and waterfalls? They can be found
 all around the country of Canada. From the national parks in Banff to good old
 Niagara Falls.
 
 Spending a week in an RV, I traveled from Calgary to Banff and explored the lakes
 and nature of Canada.
 
-Niagara Falls
+### **Niagara Falls**
 
 ![Niagara Falls Photo](/images/niagraFalls1.jpg)
 
@@ -28,7 +28,7 @@ that allowed visitors to be right up against the rapids.
 
 ![Niagara Falls Photo](/images/niagraFalls2.jpg)
 
-Banff National Park
+### **Banff National Park**
 
 Banff National Park is Canada's oldest national park and was established in 1885.
 

@@ -8,13 +8,13 @@ categories: misc
 Are you always craving something sugary to satisfy your sweet tooth? Portugal is
 the place for you! They are known for tasty pastries!
 
-Here are some of the best Pastelaria's:
+**Here are some of the best Pastelaria's:**
 
-<a href="https://pasteisdebelem.pt/">Pastéis de Belém</a>.
+- <a href="https://pasteisdebelem.pt/">Pastéis de Belém</a>.
 
-<a href="http://pastelaria-alcoa.com/">Pastelaria Alcôa</a>.
+- <a href="http://pastelaria-alcoa.com/">Pastelaria Alcôa</a>.
 
-<a href="https://www.fabricadanata.com/fabricadanata-1">Fábrica da Nata - Pastéis de Nata
+- <a href="https://www.fabricadanata.com/fabricadanata-1">Fábrica da Nata - Pastéis de Nata
 </a>.
 
 

@@ -5,13 +5,13 @@ author: alexheinle
 date: '2018-07-06 12:00:00'
 categories: misc
 ---
-Spain...the most cultural centers of Europe!
+**Spain...the most cultural centers of Europe!**
 
 From bullfights to Flamenco music, this country is a MUST SEE!
 
 Follow along as I tell you about my travels through 5 different cities in Spain.
 
-First stop, BARCELONA
+First stop, **BARCELONA**
 
 <a href="https://parkguell.barcelona/en/home-en">Park Güell</a> is a top
 tourist attraction! Park Guell is public park system filled with gardens and
@@ -35,12 +35,12 @@ a large unfinished Roman Catholic Church.
 
 ![Barcelona Photo](/images/sagrada2.jpg)
 
-FUN FACT: La Sagrada Familia has been undergoing construction since the year of
+*FUN FACT:* La Sagrada Familia has been undergoing construction since the year of
 1882..thats 131 years ago! The church is estimated to be completed by 2026.
 
 
 
-Next stop, GRANADA
+Next stop, **GRANADA**
 
 Granada is a city located in the foothills of the Sierra Nevada Mountains.
 
@@ -68,12 +68,12 @@ and palace build in AD 889.
 
 ![Granada Photo](/images/alhambra2.jpg)
 
-FUN FACT: The Alhambra is where Christopher Columbus received royal endorsement
+*FUN FACT:* The Alhambra is where Christopher Columbus received royal endorsement
 for his expedition!
 
 
 
-Next....SEVILLE
+Next....**SEVILLE**
 
 Seville - the birthplace of the Flamenco dance!
 
@@ -92,7 +92,7 @@ such a special landmark that it needs deserving protection.
 ![Seville Photo](/images/seville3.jpeg)
 
 
-Time for CORDOBA
+Time for **CORDOBA**
 
 Take a peek at the <a href="https://mezquita-catedraldecordoba.es/">Mezquita Catedral de Cordoba</a>
 
@@ -113,7 +113,7 @@ Make sure you walk to the top of the bell tower!
 Above is the view from the top of the tower.
 
 
-Lastly, MADRID
+Lastly, **MADRID**
 
 The large city of Madrid holds the job of being the capital of Spain. Madrid
 has a population of over 3 million people.
